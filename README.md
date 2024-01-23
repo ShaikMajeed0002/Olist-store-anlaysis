@@ -1,4 +1,3 @@
-theme -jekyll-theme-merlot
 # Olist Store Analysis
 ![](https://github.com/ShaikMajeed0002/Olist-store-anlaysis/blob/main/Olist%20image.png)
 
