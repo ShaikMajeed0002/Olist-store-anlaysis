@@ -47,8 +47,6 @@ The Report Comprises 3 Dashboards:
      
      ![](https://github.com/ShaikMajeed0002/Olist-store-anlaysis/blob/main/power%20bi%20dashboard.png)
      
-     
-  You Can Interact With The Report Here [Here](https://app.powerbi.com/groups/me/reports/0d0c765f-3253-43a4-9378-279277832743/ReportSectionf9e789b04bce22d87367?experience=power-bi)
 
 ## Overview and features
 
