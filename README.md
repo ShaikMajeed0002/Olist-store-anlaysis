@@ -1,5 +1,5 @@
 # Olist Store Analysis
-![](https://github.com/ShaikMajeed0002/Olist-store-anlaysis/blob/main/Olist%20image.png)
+(https://github.com/ShaikMajeed0002/Olist-store-anlaysis/blob/main/Olist%20image.png)
 
 ## Introduction
 This project is on sales analysis of a Brazilian e-commerce platform called **Olist Stores**.
