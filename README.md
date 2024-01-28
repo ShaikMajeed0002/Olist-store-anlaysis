@@ -79,6 +79,8 @@ The Report Comprises 3 Dashboards:
   - By using Lollypop chart we showed the top 5 sellers city in tableau where sao paulo is highest seller city with 2.20M .
   
 5. Orders by frieght value
+
+
    ![](https://github.com/ShaikMajeed0002/Olist-store-anlaysis/blob/main/project%201-4.png)
 
   -Here we can observe the Frieght value differs from orders.
